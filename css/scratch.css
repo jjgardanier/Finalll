@@ -1,0 +1,36 @@
+.bodystuff {
+    list-style-position: inside;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    background-color: #333; 
+    margin: 20px;
+    text-align: center;
+}
+.imgstyle {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        align-items: center;
+    }
+
+.ol {
+    text-align: left;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.centered-heading {
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 30px;
+}
+
+.backgroundc {
+    background-color: gray;
+}
